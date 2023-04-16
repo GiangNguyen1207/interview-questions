@@ -1,0 +1,13 @@
+const myString = "John Smith";
+
+/**
+ *
+ * @param {*} string // ie. John Smith
+ * @output {*} string // Smith John
+ */
+function reverseWords(string) {
+  // your code here
+}
+
+// Expect Smith John
+console.log(reverseWords(myString));

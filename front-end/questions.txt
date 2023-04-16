@@ -1,0 +1,2 @@
+1. When a user notices a slow performance on a website, as a developer, what would you do to figure out the problem and improve the performance?
+2. What is state?

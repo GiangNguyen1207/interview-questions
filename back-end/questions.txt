@@ -1,0 +1,2 @@
+1. What is microsevice architecture? When to use microservice architecture?
+2. What is monolithic architecture? When to use monolithic architecture?
